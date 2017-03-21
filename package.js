@@ -1,6 +1,6 @@
 Package.describe({
   name: 'keanghok:framework7',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Framework7 (v1.5.4) with Meteor. You can choose iOS or Android theme.',
   git: 'https://github.com/lastday4you/meteor-framework7.git',
   documentation: 'README.md'

@@ -5,6 +5,9 @@ You can choose iOS or Material(Android) theme. It is also include all the framew
 
 # How to use it?
 
+## Example project 
+<a href"https://github.com/lastday4you/meteor-framework7-example"> https://github.com/lastday4you/meteor-framework7-example </a>
+
 ## Add package
 
 ```
@@ -82,3 +85,5 @@ if (Meteor.isClient) {
 
 Framework7 original documentation:
 <a href="http://www.idangero.us/framework7/docs/" target="http://www.idangero.us/framework7/docs/">http://www.idangero.us/framework7/docs/</a>
+
+
