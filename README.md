@@ -6,7 +6,7 @@ You can choose iOS or Material(Android) theme. It is also include all the framew
 # How to use it?
 
 ## Example project 
-<a href"https://github.com/lastday4you/meteor-framework7-example"> https://github.com/lastday4you/meteor-framework7-example </a>
+<a href="https://github.com/lastday4you/meteor-framework7-example"> https://github.com/lastday4you/meteor-framework7-example </a>
 
 ## Add package
 
