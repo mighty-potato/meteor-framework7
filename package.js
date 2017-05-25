@@ -24,9 +24,9 @@ Package.onUse(function(api) {
     'framework7/dist/css/framework7.material.rtl.css',
     'framework7/dist/css/framework7.material.rtl.min.css',
     'Framework7-Icons/css/framework7-icons.css',
-    'Framework7-Icons/fonts/Framework7Icons-Regular.eot'
-    'Framework7-Icons/fonts/Framework7Icons-Regular.ttf'
-    'Framework7-Icons/fonts/Framework7Icons-Regular.woff'
+    'Framework7-Icons/fonts/Framework7Icons-Regular.eot',
+    'Framework7-Icons/fonts/Framework7Icons-Regular.ttf',
+    'Framework7-Icons/fonts/Framework7Icons-Regular.woff',
     'Framework7-Icons/fonts/Framework7Icons-Regular.woff2'
   ], 'client');
 
